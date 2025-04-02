@@ -1,0 +1,19 @@
+header {
+    background-color: gray;
+    height: 50%;
+}
+
+.tete{
+    text-align: right;
+    display: inline;
+    margin-right: 10px;
+    width: 200px;
+}
+.hero{
+    background-color: gray;
+}
+h1{
+    font-weight: bold;
+    text-align:  left;
+    color: white;
+}
